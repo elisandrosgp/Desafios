@@ -1,4 +1,4 @@
 # Desafios
 
 Repositório de desafios.
-Estudos de java.
+Estudos em geral.
